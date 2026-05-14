@@ -1,0 +1,17 @@
+SUAVMER Mission Manifest
+========================
+
+Mission ID: 67d944ed
+Created At: 2026-05-12 21:30:08.378355
+Mission Type: Mapping / Lawnmower Grid
+Mission Status: Completed
+
+Output Files:
+-------------
+File Name: logs/mission_report_2026-05-12_21-30-08.txt
+File Type: Mission Report
+SHA256 Checksum: 30a8208480096c8c541a62a6226cd7027386edc5179d97de5d60393168b70a60
+
+File Name: metadata/image_metadata_2026-05-12_21-30-08.csv
+File Type: Image Metadata CSV
+SHA256 Checksum: 99dc16de8c81f7a272c6aeabba2d3de32e143c55766557215f8d0a806314982a

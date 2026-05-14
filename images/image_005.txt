@@ -1,0 +1,11 @@
+SUAVMER Simulated Image File
+============================
+Mission ID: 70b9ca66
+Image Name: image_005.txt
+Capture Time: 2026-05-14 17:05:21.846944
+Waypoint Number: 5
+Altitude: 20 meters
+Latitude: 21.00005
+Longitude: 39.00005
+Camera Angle: Downward
+Note: This is a placeholder file for simulated image capture.

@@ -1,0 +1,9 @@
+mission_id,image_name,capture_time,waypoint_number,altitude_m,latitude,longitude,camera_angle,capture_status
+67d944ed,image_001.jpg,2026-05-12 21:30:13.378355,1,20,21.00001,39.00001,Downward,Captured
+67d944ed,image_002.jpg,2026-05-12 21:30:18.378355,2,20,21.00002,39.00002,Downward,Captured
+67d944ed,image_003.jpg,2026-05-12 21:30:23.378355,3,20,21.00003,39.00003,Downward,Captured
+67d944ed,image_004.jpg,2026-05-12 21:30:28.378355,4,20,21.00004,39.00004,Downward,Captured
+67d944ed,image_005.jpg,2026-05-12 21:30:33.378355,5,20,21.00005,39.00005,Downward,Captured
+67d944ed,image_006.jpg,2026-05-12 21:30:38.378355,6,20,21.00006,39.00006,Downward,Captured
+67d944ed,image_007.jpg,2026-05-12 21:30:43.378355,7,20,21.00007,39.00007,Downward,Captured
+67d944ed,image_008.jpg,2026-05-12 21:30:48.378355,8,20,21.00008,39.00008,Downward,Captured

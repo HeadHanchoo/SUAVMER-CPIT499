@@ -1,0 +1,53 @@
+SUAVMER Mission Manifest
+========================
+
+Mission ID: 1dc5c861
+Created At: 2026-05-12 21:53:11.780299
+Mission Type: Mapping / Lawnmower Grid
+Mission Status: Completed
+
+Output Files:
+-------------
+
+File Name: logs/mission_report_2026-05-12_21-53-11.txt
+File Type: Mission Report
+SHA256 Checksum: 5f217a487abec2ca6ca134777b932f73255948ab16480b04279eceee2b0767be
+
+File Name: metadata/image_metadata_2026-05-12_21-53-11.csv
+File Type: Image Metadata CSV
+SHA256 Checksum: 51c5e1b4019071a26d972871491f413d258444689382173a6de89557f21c464c
+
+Simulated Image Files:
+----------------------
+File Name: images/image_001.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 09aa81bd867ff97c4e65c903afd7fd15cc66acc172c0423c4be2f80bacfa2fb0
+
+File Name: images/image_002.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 3b7153b95f426cd5ba8688c308646d2707da93bf7743b05dc4d36095fc3432a1
+
+File Name: images/image_003.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 6c84dfa592c9e6f5fe259fdccd6b60d02ee63b078a5307b53cbf59e546c458f4
+
+File Name: images/image_004.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 7f61573bbaa06be217a02d270e08cd5b01d320a1b8c2309345bf5887ee65300c
+
+File Name: images/image_005.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: a193ca8fed303bffaf5d9bd331888ecde302b7d657db82e88a7016df25b6c7ed
+
+File Name: images/image_006.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: db620c3b4fe454aebfd10283803b81ae6c5b80a50949bc219e2ba9068b50ca16
+
+File Name: images/image_007.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 296c527487e9e261da15f5a499ef43c07dc0fc553a1db4fde9256af316b96a88
+
+File Name: images/image_008.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 3684fe24adb1723b468b448a1c1b30968a3511fb3802545850084665b5e1ddd5
+

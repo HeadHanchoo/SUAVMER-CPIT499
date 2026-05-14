@@ -1,0 +1,9 @@
+mission_id,image_name,capture_time,waypoint_number,altitude_m,latitude,longitude,camera_angle,capture_status,image_file_path
+1dc5c861,image_001.txt,2026-05-12 21:53:16.780299,1,20,21.00001,39.00001,Downward,Captured,images/image_001.txt
+1dc5c861,image_002.txt,2026-05-12 21:53:21.780299,2,20,21.00002,39.00002,Downward,Captured,images/image_002.txt
+1dc5c861,image_003.txt,2026-05-12 21:53:26.780299,3,20,21.00003,39.00003,Downward,Captured,images/image_003.txt
+1dc5c861,image_004.txt,2026-05-12 21:53:31.780299,4,20,21.00004,39.00004,Downward,Captured,images/image_004.txt
+1dc5c861,image_005.txt,2026-05-12 21:53:36.780299,5,20,21.00005,39.00005,Downward,Captured,images/image_005.txt
+1dc5c861,image_006.txt,2026-05-12 21:53:41.780299,6,20,21.00006,39.00006,Downward,Captured,images/image_006.txt
+1dc5c861,image_007.txt,2026-05-12 21:53:46.780299,7,20,21.00007,39.00007,Downward,Captured,images/image_007.txt
+1dc5c861,image_008.txt,2026-05-12 21:53:51.780299,8,20,21.00008,39.00008,Downward,Captured,images/image_008.txt

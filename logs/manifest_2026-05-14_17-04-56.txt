@@ -1,0 +1,57 @@
+SUAVMER Mission Manifest
+========================
+
+Mission ID: 70b9ca66
+Created At: 2026-05-14 17:04:56.846944
+Mission Type: Mapping / Lawnmower Grid
+Mission Status: Completed
+
+Output Files:
+-------------
+
+File Name: logs/mission_report_2026-05-14_17-04-56.txt
+File Type: Mission Report
+SHA256 Checksum: 3609487ae72a32f4a825ac123dd5ff496e640727f131134ccd8fcbe9ea6a928a
+
+File Name: metadata/image_metadata_2026-05-14_17-04-56.csv
+File Type: Image Metadata CSV
+SHA256 Checksum: ec0f93da82301c8fde7dc062fd31f268e30df2c75927f2ed2aaa2887b5ca476f
+
+File Name: logs/qc_report_2026-05-14_17-04-56.txt
+File Type: Quality Control Report
+SHA256 Checksum: 786244040d7176bbd32b664960da48f32487e4c275822febf2bc86524084e78a
+
+Simulated Image Files:
+----------------------
+File Name: images/image_001.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 65b1fd836975910cc31d7ea841dd5a1e2910d4dcbd9c8dd5e540c2ceed7584b9
+
+File Name: images/image_002.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 1e590d339e7e53cc5f90c3b0a5c80f37a3a00fa1c3b63b019ccbde2310c40d51
+
+File Name: images/image_003.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 62714beda5b25232e420679591be6db33b39bbb847961ebf6905642f85691566
+
+File Name: images/image_004.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 9db5e3727a8e44bac1b67b19f9bf268e530026b8248b9c2cbd26abd815e944d9
+
+File Name: images/image_005.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: aa4a11aa32184af91c7dbb038fa7b02d865a6cb5c6be82f44393166cd3bedcf9
+
+File Name: images/image_006.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: fbcab089083a79d657a70ab12e15717213cf87ae72a5304b6f563093afa2b83c
+
+File Name: images/image_007.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 480180602918fc50a45496a1c00c993e84f74b5e5125307d09e36c6d16a8f66f
+
+File Name: images/image_008.txt
+File Type: Simulated Image Placeholder
+SHA256 Checksum: 1eed427714055e63c49008718727c45f6823dd458f9c5bf7cc4ad7c26b0acee4
+

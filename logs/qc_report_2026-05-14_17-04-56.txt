@@ -1,0 +1,15 @@
+SUAVMER Quality Control Report
+==============================
+
+Mission ID: 70b9ca66
+Mission Type: Mapping / Lawnmower Grid
+Mission Status: Completed
+Expected Images: 8
+Captured Images: 8
+Capture Success Rate: 100.00%
+Coverage Estimate: 100%
+Overlap Status: Simulated overlap check passed
+QC Result: PASS
+
+Notes:
+This is a simulated QC report. Later, these values can be calculated from real captured images, telemetry, and mapping coverage.

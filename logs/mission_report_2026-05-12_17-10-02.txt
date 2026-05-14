@@ -1,0 +1,10 @@
+SUAVMER Mission Report
+======================
+
+Mission Name: Mapping Grid Mission Test
+Mission Type: Mapping / Lawnmower Grid
+Date and Time: 2026-05-12 17:10:02.511796
+Altitude: 20 meters
+Number of Waypoints: 8
+Mission Status: Completed
+Notes: The drone successfully followed a grid-style mapping route in Gazebo using PX4 and QGroundControl.
